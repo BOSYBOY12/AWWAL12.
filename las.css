@@ -1,0 +1,49 @@
+form{
+    background-color: black;
+    opacity: 69%;
+    text-align: center ; 
+    height: 600px;
+    width: 500px;  
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+h2 {
+    color: aqua;
+}
+
+label{
+    color: aqua;
+}
+button{
+    color: white;
+    background-color: blue;
+    height: 35px;
+    width: 180px;
+    border: none;
+}
+
+input{
+    border-bottom: 2px solid blue;
+    border: none;
+    background-color: black;
+    font-size: 18px;
+    font-weight: bold;
+    width: 210px;  
+}
+.ey{
+border: none;
+border-bottom: 2px solid white;
+
+}
+
+.eye{
+border: none;
+border-bottom: 2px solid white;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
